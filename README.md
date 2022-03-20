@@ -4,4 +4,4 @@ NGO Website
 
 
 We have used HTML, CSS, Bootstrap and certain animation libraries for frontend
-and js, node js, mongodb for backend
+and js, php and mysql for backend
